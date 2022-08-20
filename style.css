@@ -1,0 +1,23 @@
+body{
+  font-size: 20px;
+}
+.mini_result{
+  margin-top: 90px;
+}
+
+h3{ 
+  margin: 36px;
+  background-color: aquamarine;
+  border: 5px solid white;
+  border-radius: 75px;
+}
+
+img{
+  height: 400px;
+  width: 400px;
+  border-radius: 65px;
+}
+
+.heading{
+  color: red;
+}
